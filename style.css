@@ -149,8 +149,9 @@ flex-direction: column;
 /* Interests */
 .interest_items{
     margin-top: 2rem;
-    display: flex;
+   
     align-items: center;
+    display: flex;
     flex-wrap: wrap;
     gap: 2rem;
 

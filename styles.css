@@ -1,0 +1,69 @@
+
+header{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.logo{
+    width: 120px;
+
+}
+.headerleft{
+   
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.headerright{
+  display: flex;
+  gap: 5px;
+}
+.body{
+    
+    font-size: 50px;
+    margin-top: 10px;
+}
+.body2{
+ 
+    font-size: 50px;
+    margin-top: 0%;
+}
+
+.body3{
+   
+    font-size: 15px;
+    margin-top: 5p;
+}
+.body4{
+   
+    font-size: 15px;
+    margin-top: 5p;
+}
+.body5{
+   
+    font-size: 15px;
+    margin-top: 5p;
+}
+.subbody{
+    background-color: wheat;
+    display: flex;
+    justify-content:space-evenly;
+}
+.btn1{
+    margin-top: 40px;
+    background-color: purple;
+    color: white;
+}
+.btn2{
+    background-color: purple;
+    color: white;
+}
+.btn3{
+    background-color: purple;
+    color: white;
+}
+.right{
+    justify-content: flex-end;
+}
